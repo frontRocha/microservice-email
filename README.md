@@ -77,10 +77,4 @@
 
   <h2>Executando o Microserviço</h2>
 
-  <p>Para executar o microserviço, certifique-se de ter o Apache Maven instalado em sua máquina. Em seguida, execute o seguinte comando na raiz do projeto:</p>
-
-  <pre>
-    mvn spring-boot:run
-  </pre>
-
   <p>O microserviço será iniciado e estará disponível no endereço <code>http://localhost:8080</code>.</p>
